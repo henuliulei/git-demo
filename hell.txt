@@ -1,2 +1,8 @@
 version2.0
+<<<<<<< HEAD
 master  iiii
+add liulei01
+liulei01 arrive
+111111
+222222
+>>>>>>> liulei01
